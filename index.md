@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "COLABS"
 subtitle: "Collaboration for Better Software (for Science)"
 ---
@@ -41,3 +41,7 @@ Come back often for updates.
 
 * The [proposal](/assets/documents/COLABS-Proposal.pdf) for our seed project provides the best description we have currently of the COLABS concept.
 * The [Leadership Scientific Software Portal](https://leadershipscientificsoftware.github.io/) (LSSw) is the current "meeting point" for the six "seed" projects.  The site provides links to the various individual project teams, information on events and meet-up opportunities, etc.  
+
+---
+
+# News
