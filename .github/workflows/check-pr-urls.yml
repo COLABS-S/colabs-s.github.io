@@ -23,6 +23,11 @@ jobs:
       uses: juliangruber/read-file-action@v1
       with:
         path: ./.github/workflows/exclude-urls.txt
+    - name: Read exclude-patterns list
+      id: patterns
+      uses: juliangruber/read-file-action@v1
+      with:
+        path: ./.github/workflows/exclude-patterns.txt
 
     # Run URL checks
     - name: URLs-checker
@@ -32,6 +37,7 @@ jobs:
         include_files: ${{ steps.files.outputs.added_modified }}
         # Use common exclude list read in above
         exclude_urls: ${{ steps.exclude.outputs.content }}
+        exclude_patterns: ${{ steps.patterns.outputs.content }}
         timeout: 10
         retry_count: 3
         print_all: false
