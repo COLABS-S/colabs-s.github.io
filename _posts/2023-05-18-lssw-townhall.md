@@ -10,9 +10,5 @@ The meeting topic was: Collaborating to address urgent challenges in workforce r
 <!-- * Registration: <https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ> -->
 
 * Meeting page: <https://leadershipscientificsoftware.github.io/Meeting12.html>
-* Slides: [COLABS](/assets/documents/2023-05-18-Townhall-Colabs-pier.pdf) (PDF) 
-
-<!--
-\| [all panelists](https://leadershipscientificsoftware.github.io/files/LSSwMeeting12Panel.pdf) (PDF)
-* Recording: [whole meeting](https://exascaleproject.zoomgov.com/rec/share/7RqWhiWbxNa2ityV2-WnBHSohuKmOVPBIEuNMDf45M1Zb-D7AkVqzRR8_8g5YCk6.L3d58syFq_ItaaiU?startTime=1682017208000) (Zoom)
--->
+* Slides: [COLABS](/assets/documents/2023-05-18-Townhall-Colabs-pier.pdf) (PDF) \| [all panelists](https://leadershipscientificsoftware.github.io/files/LSSwMeeting12Panel.pdf) (PDF)
+* Recording: [whole meeting](https://exascaleproject.zoomgov.com/rec/share/ncgMkrVEmKbKNisS--aLECslXX2fyszpzEdr8bvmB5EKMrvaC196uTsa0y5AvOKW.5YBlHuA40e4E2P0q) (Zoom)
