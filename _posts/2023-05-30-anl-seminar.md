@@ -22,5 +22,5 @@ ASCR recently funded six groups to conceptualize organizations for software sust
 
 Anshu Dubey is a Senior Computational Scientist in the Mathematics and Computer Science Division at Argonne National Laboratory. Her research interests include design, architecture, and sustainability of multiphysics scientific software used on high performance computing platforms. She is also a Senior Scientist in the Computer Science Department at the University of Chicago. 
 
-* Slides: [PDF](/assets/documents/2023-05-30-CS_COLABS.pdf)
+* Slides: [PDF](/assets/documents/2023-05-30-CS_COLABS_final.pdf)
 * Recording: [Google Drive](https://drive.google.com/file/d/1X6xf2A599j66kw2-g8-tzQJ_PXr2rJPl/view?usp=drive_link)
