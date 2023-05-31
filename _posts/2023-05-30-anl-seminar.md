@@ -14,7 +14,9 @@ Anshu Dubey gave a seminar on COLABS as part of the ANL CS Seminar Series. The s
 
 **Title: Conceptualization of Software Sustainability Post ECP: the COLABS Vision**
 
-**Abstract:** ASCR recently funded six groups to conceptualize organizations for software sustainability. It is expected that some or all of these “seedlings” may become funded projects/organizations in the following years. This is a real opportunity for all stakeholders to bring their ideas and concerns to ASCR’s attention and help formulate a vision for how software development and sustainment might look like in future. COLABS, led by Argonne, is one of the six seedlings. The foundation of our vision is the workforce, people with expertise to make software sustainability possible. In this seminar I will summarize all seedlings, and the landscape as I understand it, followed by a deeper dive into the COLABS vision. My intent is to use this seminar as a launching point for conversations among stakeholders at Argonne and other labs.
+**Abstract:** 
+
+ASCR recently funded six groups to conceptualize organizations for software sustainability. It is expected that some or all of these “seedlings” may become funded projects/organizations in the following years. This is a real opportunity for all stakeholders to bring their ideas and concerns to ASCR’s attention and help formulate a vision for how software development and sustainment might look like in future. COLABS, led by Argonne, is one of the six seedlings. The foundation of our vision is the workforce, people with expertise to make software sustainability possible. In this seminar I will summarize all seedlings, and the landscape as I understand it, followed by a deeper dive into the COLABS vision. My intent is to use this seminar as a launching point for conversations among stakeholders at Argonne and other labs.
 
 **Bio: Anshu Dubey**
 
