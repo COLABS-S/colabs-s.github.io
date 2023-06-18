@@ -3,7 +3,7 @@ layout: post
 title: Another seminar on COLABS
 ---
 
-David E. Bernholdt will give a seminar on COLABS as part of a special seminar mini-series focused on the six software ecosystem sustainability seed projects. The slides and a recording will be available.  Details below.
+David E. Bernholdt will give a seminar on COLABS as part of a special seminar mini-series focused on the six software ecosystem sustainability seed projects. The slides and a recording are available.  Details below.
 
 **Time:** 1:00pm-2:00pm EDT<br> 
 **Date:** Friday 16 June 2023
