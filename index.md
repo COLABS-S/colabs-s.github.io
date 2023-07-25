@@ -40,7 +40,11 @@ Come back often for updates.
 ## Related information
 
 * The [proposal](/assets/documents/COLABS-Proposal.pdf) for our seed project provides the best description we have currently of the COLABS concept.
-* The [Leadership Scientific Software Portal](https://leadershipscientificsoftware.github.io/) (LSSw) is the current "meeting point" for the six "seed" projects.  The site provides links to the various individual project teams, information on events and meet-up opportunities, etc.  
+* The [Leadership Scientific Software Portal](https://leadershipscientificsoftware.github.io/) (LSSw) is the current "meeting point" for the six "seed" projects.  The site provides links to the various individual project teams, information on events and meet-up opportunities, etc. 
+
+## [Frequently Asked Questions](faq)
+
+See our responses to some of the questions we've received from the community about COLABS.  If you have further questions, please don't hesitate to get in touch!
 
 ---
 
