@@ -9,10 +9,11 @@ title: Frequently Asked Questions about COLABS
 The working definition we’ve been given by DOE/ASCR is that software sustainability focuses on user-facing aspects of a software package, as opposed to “research-facing” aspects.  So activities that improve the package for users would be considered sustainability-related.  Some examples might include:
 
 * Implementing automatic testing and/or improving test suites
-Establishing an issue-tracking system
+* Establishing an issue-tracking system
 * Triaging and perhaps fixing user-reported issues
 * Refactoring to improve implementation quality, reliability, etc.
 * Performance tuning
+* Supporting new hardware platforms
 
 ## This sounds a bit like a user facility
 
