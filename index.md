@@ -21,6 +21,8 @@ Institution | Principal Investigator | Additional Personnel
 [Argonne National Laboratory](https://www.anl.gov/) | Anshu Dubey | Kevin Harms
 [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) | Dan Gunter | Richard Gerber, John MacAuley
 [Oak Ridge National Laboratory](https://www.ornl.gov/) | David E. Bernholdt | Bronson Messer
+[Lawrence Livermore National Laboratory](https://www.llnl.gov/) | David A. Beckingsale 
+[Brookhaven National Laboratory](https://www.bnl.gov/) | Meifeng Lin 
 
 As we continue our planning activities and start building the "real" software sustainability organization, we will be adding additional partners, including the following roles:
 
