@@ -14,15 +14,19 @@ The COLABS concept is designed to be scalable in multiple dimensions, including 
 
 ## Who are we?
 
-COLABS is led by Anshu Dubey of Argonne National Laboratory and a core team that includes:
+COLABS was founded by a team from Argonne, Lawrence Berkeley, and Oak Ridge National Laboratories, and as part of our planning activities, we have been expanding our team to cover an institutional footprint that similar to that of the projects we plan to support.
 
 Institution | Principal Investigator | Additional Personnel
 ------------|------------------------|---------------------
-[Argonne National Laboratory](https://www.anl.gov/) | Anshu Dubey | Kevin Harms
+*Founding Members* | |
+[Argonne National Laboratory](https://www.anl.gov/) | Anshu Dubey (Lead PI) | Kevin Harms
 [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) | Dan Gunter | Richard Gerber, John MacAuley
 [Oak Ridge National Laboratory](https://www.ornl.gov/) | David E. Bernholdt | Bronson Messer
-[Lawrence Livermore National Laboratory](https://www.llnl.gov/) | David A. Beckingsale 
-[Brookhaven National Laboratory](https://www.bnl.gov/) | Meifeng Lin 
+*Additional Members* | | 
+[Brookhaven National Laboratory](https://www.bnl.gov/) | Meifeng Lin
+[Lawrence Livermore National Laboratory](https://www.llnl.gov/) | David A. Beckingsale
+[Pacific Northwest National Laboratory](https://pnnl.gov/) | Carina Lansing
+[Sandia National Laboratories](https://sandia.gov/) | James M. Willenbring
 
 As we continue our planning activities and start building the "real" software sustainability organization, we will be adding additional partners, including the following roles:
 
