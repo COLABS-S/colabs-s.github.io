@@ -26,7 +26,7 @@ Institution | Principal Investigator | Additional Personnel
 [Brookhaven National Laboratory](https://www.bnl.gov/) | Meifeng Lin
 [Lawrence Livermore National Laboratory](https://www.llnl.gov/) | David A. Beckingsale
 [Los Alamos National Laboratory](https://lanl.gov/) | Tarun Prabhu
-[Pacific Northwest National Laboratory](https://pnnl.gov/) | Carina Lansing
+[Pacific Northwest National Laboratory](https://pnnl.gov/) | Ken Roche | Carina Lansing
 [Sandia National Laboratories](https://sandia.gov/) | James M. Willenbring
 
 As we continue our planning activities and start building the "real" software sustainability organization, we will be adding additional partners, including the following roles:
