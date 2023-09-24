@@ -19,8 +19,8 @@ COLABS was founded by a team from Argonne, Lawrence Berkeley, and Oak Ridge Nati
 Institution | Principal Investigator | Additional Personnel
 ------------|------------------------|---------------------
 *Founding Members* | |
-[Argonne National Laboratory](https://www.anl.gov/) | Anshu Dubey (Lead PI) | Kevin Harms
-[Lawrence Berkeley National Laboratory](https://www.lbl.gov/) | Dan Gunter | Richard Gerber, John MacAuley
+[Argonne National Laboratory](https://www.anl.gov/) | Anshu Dubey (Lead PI) | Kevin Harms, Rinku Gupta
+[Lawrence Berkeley National Laboratory](https://www.lbl.gov/) | Dan Gunter | Richard Gerber, John MacAuley, Keith Beattie
 [Oak Ridge National Laboratory](https://www.ornl.gov/) | David E. Bernholdt | Bronson Messer
 *Additional Members* | | 
 [Brookhaven National Laboratory](https://www.bnl.gov/) | Meifeng Lin
